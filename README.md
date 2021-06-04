@@ -24,7 +24,7 @@
    - **GH_PAT:** The personal access token generated above.
    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/puf17640/`**`f091f6edaca9b14d5a149983526feb63`**.
    - **COUNTRY:** Specify a country name to show country specific data, if omitted, Global data is shown.
-4. Wait for it to update! 🎉
+4. Wait for it to update!! 🎉
 
 ## Credits
 
